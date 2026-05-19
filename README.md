@@ -6,7 +6,7 @@ In my day job, I work on the Salesforce platform, writing Apex code.
 
 I do this using the neovim editor. To help me with that, I'm developing a [neovim plugin for Salesforce developers](https://github.com/stephanspiegel/kraftwerk.nvim).
 
-I live in Portland, Maine, where I like to paddle my canoe :canoe: and forage for berries :blueberries: and mushrooms :mushroom:.
+I used to be an Austrian expat living in the USA, now I'm a US expat living in Austria.
 
 Say hi if you like:
 
